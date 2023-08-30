@@ -1,0 +1,23 @@
+:root .content {
+  font-family: "Gotham Rounded";
+}
+
+
+body table {
+  color: #000000;
+  font-family: "Gotham Rounded";
+  background-color:#fff
+  /*Usado na assinatura da howbe*/
+  /*background-color: #f2f3f7; */ 
+}
+
+
+button {
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+table {
+  width: 100%;
+}
+
